@@ -1,5 +1,5 @@
 body {
-    background-image: url(../../assets/backgrounds/4-2.png);
+  background: #231F20 !important;
 }
 @font-face {
     font-family: 'SegoeUI';
